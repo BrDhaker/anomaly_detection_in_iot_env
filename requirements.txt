@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+fastapi
+uvicorn
+requests
+joblib
+matplotlib
+seaborn
+jupyter
+azure-storage-blob
